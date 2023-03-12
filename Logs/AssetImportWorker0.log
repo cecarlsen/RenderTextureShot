@@ -1281,3 +1281,35 @@ Received Import Request.
 Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4fe85251aa2e89732c359432baa2c3') in 0.000415 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 116.747975 seconds.
+  path: Assets/RenderTextureShot/Editor/EditorRenderTextureShot.cs
+  artifactKey: Guid(d92594251c090774eb66251a20377d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RenderTextureShot/Editor/EditorRenderTextureShot.cs using Guid(d92594251c090774eb66251a20377d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79269d94f39943b2eb601bc10aa3992d') in 0.004425 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.005273 seconds.
+  path: Assets/RenderTextureShot/Samples/RuntimeRenderTextureShotExample.renderTexture
+  artifactKey: Guid(93a736372046b0144a2e6c3cbde489fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RenderTextureShot/Samples/RuntimeRenderTextureShotExample.renderTexture using Guid(93a736372046b0144a2e6c3cbde489fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caeee7dbd4d3cd4f81178c3a2730b796') in 0.056958 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.041330 seconds.
+  path: Assets/RenderTextureShot/License.md
+  artifactKey: Guid(8517629f5ccda2d44875bf60d77276da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RenderTextureShot/License.md using Guid(8517629f5ccda2d44875bf60d77276da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e9103f1e390c0adb81296673b34ecc') in 0.000986 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006729 seconds.
+  path: Assets/RenderTextureShot/Runtime/RuntimeRenderTextureShot.cs
+  artifactKey: Guid(6bcc40c411e4f674da7c790e31661463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RenderTextureShot/Runtime/RuntimeRenderTextureShot.cs using Guid(6bcc40c411e4f674da7c790e31661463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc4357b896e2b07414347dbb2d7cd559') in 0.000501 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
