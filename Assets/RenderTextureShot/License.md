@@ -1,19 +1,3 @@
-RenderTextureShot
-=================
-
-Convenience tool for saving RenderTextures to image files in Unity.
-
-Made with Unity 2022.2.9.
-
-Features
---------
-
-- RuntimeRenderTextureShot component. Put it in the scene and press a key of your choice to save a RenderTexture to your desktop.
-- RenderTexture context menu (the cog in the upper right corner of the inspector panel when a RenderTexture is selected) save to image.
-
-
-License
--------
 Copyright (c) 2020-2023 Carl Emil Carlsen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
